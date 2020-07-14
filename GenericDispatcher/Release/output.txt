@@ -1,0 +1,1125 @@
+Debug Mode Initiated
+==============================INITIALIZATION=========================================
+GENERIC DISPATCHER START: C:\Users\Massimo\Desktop\GenericDispatcher\DLL\hello-world.dll | Entry Point: fibonacci_init | Frequency: 60
+==============================BEGIN LOOP=========================================
+Current Time: 3.91998e-05 | timestep: 0
+Current Time: 0.0185291 | timestep: 0
+Function call count: 1 | time: 0
+Current Time: 0.0186289 | timestep: 0.0166667
+Current Time: 0.0354186 | timestep: 0.0166667
+Function call count: 2 | time: 0.0166667
+Current Time: 0.0361466 | timestep: 0.0333333
+Current Time: 0.0519859 | timestep: 0.0333333
+Function call count: 3 | time: 0.0333333
+Current Time: 0.0520425 | timestep: 0.05
+Current Time: 0.0677761 | timestep: 0.05
+Function call count: 4 | time: 0.05
+Current Time: 0.0678302 | timestep: 0.0666667
+Current Time: 0.084095 | timestep: 0.0666667
+Function call count: 5 | time: 0.0666667
+Current Time: 0.0841442 | timestep: 0.0833333
+Current Time: 0.100807 | timestep: 0.0833333
+Function call count: 6 | time: 0.0833333
+Current Time: 0.100882 | timestep: 0.1
+Current Time: 0.118114 | timestep: 0.1
+Function call count: 7 | time: 0.1
+Current Time: 0.118187 | timestep: 0.116667
+Current Time: 0.135649 | timestep: 0.116667
+Function call count: 8 | time: 0.116667
+Current Time: 0.135757 | timestep: 0.133333
+Current Time: 0.15089 | timestep: 0.133333
+Function call count: 9 | time: 0.133333
+Current Time: 0.150966 | timestep: 0.15
+Current Time: 0.167793 | timestep: 0.15
+Function call count: 10 | time: 0.15
+Current Time: 0.167871 | timestep: 0.166667
+Current Time: 0.184411 | timestep: 0.166667
+Function call count: 11 | time: 0.166667
+Current Time: 0.18449 | timestep: 0.183333
+Current Time: 0.201482 | timestep: 0.183333
+Function call count: 12 | time: 0.183333
+Current Time: 0.201539 | timestep: 0.2
+Current Time: 0.21977 | timestep: 0.2
+Function call count: 13 | time: 0.2
+Current Time: 0.219851 | timestep: 0.216667
+Current Time: 0.234815 | timestep: 0.216667
+Function call count: 14 | time: 0.216667
+Current Time: 0.234892 | timestep: 0.233333
+Current Time: 0.251589 | timestep: 0.233333
+Function call count: 15 | time: 0.233333
+Current Time: 0.251655 | timestep: 0.25
+Current Time: 0.268829 | timestep: 0.25
+Function call count: 16 | time: 0.25
+Current Time: 0.268901 | timestep: 0.266667
+Current Time: 0.284921 | timestep: 0.266667
+Function call count: 17 | time: 0.266667
+Current Time: 0.284994 | timestep: 0.283333
+Current Time: 0.301629 | timestep: 0.283333
+Function call count: 18 | time: 0.283333
+Current Time: 0.3017 | timestep: 0.3
+Current Time: 0.317568 | timestep: 0.3
+Function call count: 19 | time: 0.3
+Current Time: 0.317626 | timestep: 0.316667
+Current Time: 0.334944 | timestep: 0.316667
+Function call count: 20 | time: 0.316667
+Current Time: 0.335018 | timestep: 0.333333
+Current Time: 0.351044 | timestep: 0.333333
+Function call count: 21 | time: 0.333333
+Current Time: 0.351112 | timestep: 0.35
+Current Time: 0.368152 | timestep: 0.35
+Function call count: 22 | time: 0.35
+Current Time: 0.368225 | timestep: 0.366667
+Current Time: 0.385922 | timestep: 0.366667
+Function call count: 23 | time: 0.366667
+Current Time: 0.38599 | timestep: 0.383333
+Current Time: 0.402672 | timestep: 0.383333
+Function call count: 24 | time: 0.383333
+Current Time: 0.40273 | timestep: 0.4
+Current Time: 0.418009 | timestep: 0.4
+Function call count: 25 | time: 0.4
+Current Time: 0.418082 | timestep: 0.416667
+Current Time: 0.435423 | timestep: 0.416667
+Function call count: 26 | time: 0.416667
+Current Time: 0.435496 | timestep: 0.433333
+Current Time: 0.451485 | timestep: 0.433333
+Function call count: 27 | time: 0.433333
+Current Time: 0.451562 | timestep: 0.45
+Current Time: 0.46936 | timestep: 0.45
+Function call count: 28 | time: 0.45
+Current Time: 0.469434 | timestep: 0.466667
+Current Time: 0.484277 | timestep: 0.466667
+Function call count: 29 | time: 0.466667
+Current Time: 0.484331 | timestep: 0.483333
+Current Time: 0.501056 | timestep: 0.483333
+Function call count: 30 | time: 0.483333
+Current Time: 0.501159 | timestep: 0.5
+Current Time: 0.517821 | timestep: 0.5
+Function call count: 31 | time: 0.5
+Current Time: 0.517888 | timestep: 0.516667
+Current Time: 0.535242 | timestep: 0.516667
+Function call count: 32 | time: 0.516667
+Current Time: 0.535316 | timestep: 0.533333
+Current Time: 0.551693 | timestep: 0.533333
+Function call count: 33 | time: 0.533333
+Current Time: 0.551764 | timestep: 0.55
+Current Time: 0.568228 | timestep: 0.55
+Function call count: 34 | time: 0.55
+Current Time: 0.568302 | timestep: 0.566667
+Current Time: 0.585842 | timestep: 0.566667
+Function call count: 35 | time: 0.566667
+Current Time: 0.585913 | timestep: 0.583333
+Current Time: 0.601736 | timestep: 0.583333
+Function call count: 36 | time: 0.583333
+Current Time: 0.601818 | timestep: 0.6
+Current Time: 0.617622 | timestep: 0.6
+Function call count: 37 | time: 0.6
+Current Time: 0.617684 | timestep: 0.616667
+Current Time: 0.635409 | timestep: 0.616667
+Function call count: 38 | time: 0.616667
+Current Time: 0.635485 | timestep: 0.633333
+Current Time: 0.651355 | timestep: 0.633333
+Function call count: 39 | time: 0.633333
+Current Time: 0.651402 | timestep: 0.65
+Current Time: 0.66781 | timestep: 0.65
+Function call count: 40 | time: 0.65
+Current Time: 0.667878 | timestep: 0.666667
+Current Time: 0.684752 | timestep: 0.666667
+Function call count: 41 | time: 0.666667
+Current Time: 0.68482 | timestep: 0.683333
+Current Time: 0.702705 | timestep: 0.683333
+Function call count: 42 | time: 0.683333
+Current Time: 0.702813 | timestep: 0.7
+Current Time: 0.718422 | timestep: 0.7
+Function call count: 43 | time: 0.7
+Current Time: 0.718494 | timestep: 0.716667
+Current Time: 0.734829 | timestep: 0.716667
+Function call count: 44 | time: 0.716667
+Current Time: 0.734902 | timestep: 0.733333
+Current Time: 0.751937 | timestep: 0.733333
+Function call count: 45 | time: 0.733333
+Current Time: 0.752011 | timestep: 0.75
+Current Time: 0.768718 | timestep: 0.75
+Function call count: 46 | time: 0.75
+Current Time: 0.768783 | timestep: 0.766667
+Current Time: 0.784756 | timestep: 0.766667
+Function call count: 47 | time: 0.766667
+Current Time: 0.784825 | timestep: 0.783333
+Current Time: 0.801822 | timestep: 0.783333
+Function call count: 48 | time: 0.783333
+Current Time: 0.801904 | timestep: 0.8
+Current Time: 0.818522 | timestep: 0.8
+Function call count: 49 | time: 0.8
+Current Time: 0.818592 | timestep: 0.816667
+Current Time: 0.834234 | timestep: 0.816667
+Function call count: 50 | time: 0.816667
+Current Time: 0.834301 | timestep: 0.833333
+Current Time: 0.851493 | timestep: 0.833333
+Function call count: 51 | time: 0.833333
+Current Time: 0.851569 | timestep: 0.85
+Current Time: 0.868968 | timestep: 0.85
+Function call count: 52 | time: 0.85
+Current Time: 0.869045 | timestep: 0.866667
+Current Time: 0.885196 | timestep: 0.866667
+Function call count: 53 | time: 0.866667
+Current Time: 0.885271 | timestep: 0.883333
+Current Time: 0.901167 | timestep: 0.883333
+Function call count: 54 | time: 0.883333
+Current Time: 0.901226 | timestep: 0.9
+Current Time: 0.918409 | timestep: 0.9
+Function call count: 55 | time: 0.9
+Current Time: 0.918493 | timestep: 0.916667
+Current Time: 0.935391 | timestep: 0.916667
+Function call count: 56 | time: 0.916667
+Current Time: 0.935466 | timestep: 0.933333
+Current Time: 0.951455 | timestep: 0.933333
+Function call count: 57 | time: 0.933333
+Current Time: 0.951512 | timestep: 0.95
+Current Time: 0.968467 | timestep: 0.95
+Function call count: 58 | time: 0.95
+Current Time: 0.968535 | timestep: 0.966667
+Current Time: 0.984586 | timestep: 0.966667
+Function call count: 59 | time: 0.966667
+Current Time: 0.984672 | timestep: 0.983333
+Current Time: 1.00112 | timestep: 0.983333
+Function call count: 60 | time: 0.983333
+Current Time: 1.00118 | timestep: 1
+Current Time: 1.01824 | timestep: 1
+Function call count: 61 | time: 1
+Current Time: 1.01832 | timestep: 1.01667
+Current Time: 1.03574 | timestep: 1.01667
+Function call count: 62 | time: 1.01667
+Current Time: 1.03581 | timestep: 1.03333
+Current Time: 1.05122 | timestep: 1.03333
+Function call count: 63 | time: 1.03333
+Current Time: 1.05127 | timestep: 1.05
+Current Time: 1.0682 | timestep: 1.05
+Function call count: 64 | time: 1.05
+Current Time: 1.06825 | timestep: 1.06667
+Current Time: 1.08422 | timestep: 1.06667
+Function call count: 65 | time: 1.06667
+Current Time: 1.08431 | timestep: 1.08333
+Current Time: 1.1012 | timestep: 1.08333
+Function call count: 66 | time: 1.08333
+Current Time: 1.10129 | timestep: 1.1
+Current Time: 1.11724 | timestep: 1.1
+Function call count: 67 | time: 1.1
+Current Time: 1.1173 | timestep: 1.11667
+Current Time: 1.13472 | timestep: 1.11667
+Function call count: 68 | time: 1.11667
+Current Time: 1.13478 | timestep: 1.13333
+Current Time: 1.15077 | timestep: 1.13333
+Function call count: 69 | time: 1.13333
+Current Time: 1.15083 | timestep: 1.15
+Current Time: 1.16689 | timestep: 1.15
+Function call count: 70 | time: 1.15
+Current Time: 1.16694 | timestep: 1.16667
+Current Time: 1.18426 | timestep: 1.16667
+Function call count: 71 | time: 1.16667
+Current Time: 1.18433 | timestep: 1.18333
+Current Time: 1.20079 | timestep: 1.18333
+Function call count: 72 | time: 1.18333
+Current Time: 1.20086 | timestep: 1.2
+Current Time: 1.21663 | timestep: 1.2
+Current Time: 1.21809 | timestep: 1.2
+Function call count: 73 | time: 1.2
+Current Time: 1.21812 | timestep: 1.21667
+Current Time: 1.23542 | timestep: 1.21667
+Function call count: 74 | time: 1.21667
+Current Time: 1.2355 | timestep: 1.23333
+Current Time: 1.25194 | timestep: 1.23333
+Function call count: 75 | time: 1.23333
+Current Time: 1.252 | timestep: 1.25
+Current Time: 1.26775 | timestep: 1.25
+Function call count: 76 | time: 1.25
+Current Time: 1.2678 | timestep: 1.26667
+Current Time: 1.28464 | timestep: 1.26667
+Function call count: 77 | time: 1.26667
+Current Time: 1.28469 | timestep: 1.28333
+Current Time: 1.301 | timestep: 1.28333
+Function call count: 78 | time: 1.28333
+Current Time: 1.30108 | timestep: 1.3
+Current Time: 1.31769 | timestep: 1.3
+Function call count: 79 | time: 1.3
+Current Time: 1.31776 | timestep: 1.31667
+Current Time: 1.33473 | timestep: 1.31667
+Function call count: 80 | time: 1.31667
+Current Time: 1.33479 | timestep: 1.33333
+Current Time: 1.35224 | timestep: 1.33333
+Function call count: 81 | time: 1.33333
+Current Time: 1.35232 | timestep: 1.35
+Current Time: 1.36845 | timestep: 1.35
+Function call count: 82 | time: 1.35
+Current Time: 1.36853 | timestep: 1.36667
+Current Time: 1.38473 | timestep: 1.36667
+Function call count: 83 | time: 1.36667
+Current Time: 1.3848 | timestep: 1.38333
+Current Time: 1.40213 | timestep: 1.38333
+Function call count: 84 | time: 1.38333
+Current Time: 1.40221 | timestep: 1.4
+Current Time: 1.41809 | timestep: 1.4
+Function call count: 85 | time: 1.4
+Current Time: 1.41817 | timestep: 1.41667
+Current Time: 1.43503 | timestep: 1.41667
+Function call count: 86 | time: 1.41667
+Current Time: 1.4351 | timestep: 1.43333
+Current Time: 1.45079 | timestep: 1.43333
+Function call count: 87 | time: 1.43333
+Current Time: 1.45087 | timestep: 1.45
+Current Time: 1.46855 | timestep: 1.45
+Function call count: 88 | time: 1.45
+Current Time: 1.46863 | timestep: 1.46667
+Current Time: 1.48431 | timestep: 1.46667
+Function call count: 89 | time: 1.46667
+Current Time: 1.48439 | timestep: 1.48333
+Current Time: 1.50117 | timestep: 1.48333
+Function call count: 90 | time: 1.48333
+Current Time: 1.50124 | timestep: 1.5
+Current Time: 1.51847 | timestep: 1.5
+Function call count: 91 | time: 1.5
+Current Time: 1.51855 | timestep: 1.51667
+Current Time: 1.53426 | timestep: 1.51667
+Function call count: 92 | time: 1.51667
+Current Time: 1.53433 | timestep: 1.53333
+Current Time: 1.55135 | timestep: 1.53333
+Function call count: 93 | time: 1.53333
+Current Time: 1.55143 | timestep: 1.55
+Current Time: 1.5685 | timestep: 1.55
+Function call count: 94 | time: 1.55
+Current Time: 1.56856 | timestep: 1.56667
+Current Time: 1.58473 | timestep: 1.56667
+Function call count: 95 | time: 1.56667
+Current Time: 1.5848 | timestep: 1.58333
+Current Time: 1.60145 | timestep: 1.58333
+Function call count: 96 | time: 1.58333
+Current Time: 1.60154 | timestep: 1.6
+Current Time: 1.61905 | timestep: 1.6
+Function call count: 97 | time: 1.6
+Current Time: 1.6191 | timestep: 1.61667
+Current Time: 1.6353 | timestep: 1.61667
+Function call count: 98 | time: 1.61667
+Current Time: 1.63537 | timestep: 1.63333
+Current Time: 1.65182 | timestep: 1.63333
+Function call count: 99 | time: 1.63333
+Current Time: 1.6519 | timestep: 1.65
+Current Time: 1.66786 | timestep: 1.65
+Function call count: 100 | time: 1.65
+Current Time: 1.66792 | timestep: 1.66667
+Current Time: 1.6847 | timestep: 1.66667
+Function call count: 101 | time: 1.66667
+Current Time: 1.68477 | timestep: 1.68333
+Current Time: 1.70202 | timestep: 1.68333
+Function call count: 102 | time: 1.68333
+Current Time: 1.70208 | timestep: 1.7
+Current Time: 1.7176 | timestep: 1.7
+Function call count: 103 | time: 1.7
+Current Time: 1.71767 | timestep: 1.71667
+Current Time: 1.73439 | timestep: 1.71667
+Function call count: 104 | time: 1.71667
+Current Time: 1.73446 | timestep: 1.73333
+Current Time: 1.75143 | timestep: 1.73333
+Function call count: 105 | time: 1.73333
+Current Time: 1.7515 | timestep: 1.75
+Current Time: 1.76872 | timestep: 1.75
+Function call count: 106 | time: 1.75
+Current Time: 1.76879 | timestep: 1.76667
+Current Time: 1.78483 | timestep: 1.76667
+Function call count: 107 | time: 1.76667
+Current Time: 1.7849 | timestep: 1.78333
+Current Time: 1.80201 | timestep: 1.78333
+Function call count: 108 | time: 1.78333
+Current Time: 1.80209 | timestep: 1.8
+Current Time: 1.8189 | timestep: 1.8
+Function call count: 109 | time: 1.8
+Current Time: 1.81896 | timestep: 1.81667
+Current Time: 1.83529 | timestep: 1.81667
+Function call count: 110 | time: 1.81667
+Current Time: 1.83536 | timestep: 1.83333
+Current Time: 1.85149 | timestep: 1.83333
+Function call count: 111 | time: 1.83333
+Current Time: 1.85158 | timestep: 1.85
+Current Time: 1.86952 | timestep: 1.85
+Function call count: 112 | time: 1.85
+Current Time: 1.8696 | timestep: 1.86667
+Current Time: 1.88441 | timestep: 1.86667
+Function call count: 113 | time: 1.86667
+Current Time: 1.88447 | timestep: 1.88333
+Current Time: 1.9014 | timestep: 1.88333
+Function call count: 114 | time: 1.88333
+Current Time: 1.90146 | timestep: 1.9
+Current Time: 1.9189 | timestep: 1.9
+Function call count: 115 | time: 1.9
+Current Time: 1.91899 | timestep: 1.91667
+Current Time: 1.93486 | timestep: 1.91667
+Function call count: 116 | time: 1.91667
+Current Time: 1.93493 | timestep: 1.93333
+Current Time: 1.9514 | timestep: 1.93333
+Function call count: 117 | time: 1.93333
+Current Time: 1.95149 | timestep: 1.95
+Current Time: 1.9682 | timestep: 1.95
+Function call count: 118 | time: 1.95
+Current Time: 1.96828 | timestep: 1.96667
+Current Time: 1.98532 | timestep: 1.96667
+Function call count: 119 | time: 1.96667
+Current Time: 1.9854 | timestep: 1.98333
+Current Time: 2.0015 | timestep: 1.98333
+Function call count: 120 | time: 1.98333
+Current Time: 2.00159 | timestep: 2
+Current Time: 2.01853 | timestep: 2
+Function call count: 121 | time: 2
+Current Time: 2.01861 | timestep: 2.01667
+Current Time: 2.03524 | timestep: 2.01667
+Function call count: 122 | time: 2.01667
+Current Time: 2.03531 | timestep: 2.03333
+Current Time: 2.05131 | timestep: 2.03333
+Function call count: 123 | time: 2.03333
+Current Time: 2.05139 | timestep: 2.05
+Current Time: 2.06871 | timestep: 2.05
+Function call count: 124 | time: 2.05
+Current Time: 2.06878 | timestep: 2.06667
+Current Time: 2.08552 | timestep: 2.06667
+Function call count: 125 | time: 2.06667
+Current Time: 2.0856 | timestep: 2.08333
+Current Time: 2.10175 | timestep: 2.08333
+Function call count: 126 | time: 2.08333
+Current Time: 2.10186 | timestep: 2.1
+Current Time: 2.11733 | timestep: 2.1
+Function call count: 127 | time: 2.1
+Current Time: 2.11742 | timestep: 2.11667
+Current Time: 2.13489 | timestep: 2.11667
+Function call count: 128 | time: 2.11667
+Current Time: 2.13501 | timestep: 2.13333
+Current Time: 2.15116 | timestep: 2.13333
+Function call count: 129 | time: 2.13333
+Current Time: 2.15122 | timestep: 2.15
+Current Time: 2.16845 | timestep: 2.15
+Function call count: 130 | time: 2.15
+Current Time: 2.16852 | timestep: 2.16667
+Current Time: 2.18409 | timestep: 2.16667
+Function call count: 131 | time: 2.16667
+Current Time: 2.18417 | timestep: 2.18333
+Current Time: 2.20067 | timestep: 2.18333
+Function call count: 132 | time: 2.18333
+Current Time: 2.20074 | timestep: 2.2
+Current Time: 2.21774 | timestep: 2.2
+Function call count: 133 | time: 2.2
+Current Time: 2.21782 | timestep: 2.21667
+Current Time: 2.23529 | timestep: 2.21667
+Function call count: 134 | time: 2.21667
+Current Time: 2.23536 | timestep: 2.23333
+Current Time: 2.25229 | timestep: 2.23333
+Function call count: 135 | time: 2.23333
+Current Time: 2.25235 | timestep: 2.25
+Current Time: 2.26883 | timestep: 2.25
+Function call count: 136 | time: 2.25
+Current Time: 2.26888 | timestep: 2.26667
+Current Time: 2.28449 | timestep: 2.26667
+Function call count: 137 | time: 2.26667
+Current Time: 2.28457 | timestep: 2.28333
+Current Time: 2.30134 | timestep: 2.28333
+Function call count: 138 | time: 2.28333
+Current Time: 2.3014 | timestep: 2.3
+Current Time: 2.31824 | timestep: 2.3
+Function call count: 139 | time: 2.3
+Current Time: 2.31831 | timestep: 2.31667
+Current Time: 2.33558 | timestep: 2.31667
+Function call count: 140 | time: 2.31667
+Current Time: 2.33566 | timestep: 2.33333
+Current Time: 2.35221 | timestep: 2.33333
+Function call count: 141 | time: 2.33333
+Current Time: 2.35227 | timestep: 2.35
+Current Time: 2.36826 | timestep: 2.35
+Function call count: 142 | time: 2.35
+Current Time: 2.36833 | timestep: 2.36667
+Current Time: 2.3849 | timestep: 2.36667
+Function call count: 143 | time: 2.36667
+Current Time: 2.38497 | timestep: 2.38333
+Current Time: 2.40197 | timestep: 2.38333
+Function call count: 144 | time: 2.38333
+Current Time: 2.40202 | timestep: 2.4
+Current Time: 2.41829 | timestep: 2.4
+Function call count: 145 | time: 2.4
+Current Time: 2.41835 | timestep: 2.41667
+Current Time: 2.43472 | timestep: 2.41667
+Function call count: 146 | time: 2.41667
+Current Time: 2.43479 | timestep: 2.43333
+Current Time: 2.45159 | timestep: 2.43333
+Function call count: 147 | time: 2.43333
+Current Time: 2.45166 | timestep: 2.45
+Current Time: 2.46881 | timestep: 2.45
+Function call count: 148 | time: 2.45
+Current Time: 2.46888 | timestep: 2.46667
+Current Time: 2.4847 | timestep: 2.46667
+Function call count: 149 | time: 2.46667
+Current Time: 2.48476 | timestep: 2.48333
+Current Time: 2.50184 | timestep: 2.48333
+Function call count: 150 | time: 2.48333
+Current Time: 2.50191 | timestep: 2.5
+Current Time: 2.51773 | timestep: 2.5
+Function call count: 151 | time: 2.5
+Current Time: 2.51779 | timestep: 2.51667
+Current Time: 2.53458 | timestep: 2.51667
+Function call count: 152 | time: 2.51667
+Current Time: 2.53464 | timestep: 2.53333
+Current Time: 2.55165 | timestep: 2.53333
+Function call count: 153 | time: 2.53333
+Current Time: 2.55172 | timestep: 2.55
+Current Time: 2.56791 | timestep: 2.55
+Function call count: 154 | time: 2.55
+Current Time: 2.56799 | timestep: 2.56667
+Current Time: 2.5849 | timestep: 2.56667
+Function call count: 155 | time: 2.56667
+Current Time: 2.58498 | timestep: 2.58333
+Current Time: 2.60196 | timestep: 2.58333
+Function call count: 156 | time: 2.58333
+Current Time: 2.60203 | timestep: 2.6
+Current Time: 2.61792 | timestep: 2.6
+Function call count: 157 | time: 2.6
+Current Time: 2.61797 | timestep: 2.61667
+Current Time: 2.63534 | timestep: 2.61667
+Function call count: 158 | time: 2.61667
+Current Time: 2.63543 | timestep: 2.63333
+Current Time: 2.6505 | timestep: 2.63333
+Function call count: 159 | time: 2.63333
+Current Time: 2.65056 | timestep: 2.65
+Current Time: 2.66817 | timestep: 2.65
+Function call count: 160 | time: 2.65
+Current Time: 2.66825 | timestep: 2.66667
+Current Time: 2.68541 | timestep: 2.66667
+Function call count: 161 | time: 2.66667
+Current Time: 2.68549 | timestep: 2.68333
+Current Time: 2.70138 | timestep: 2.68333
+Function call count: 162 | time: 2.68333
+Current Time: 2.70145 | timestep: 2.7
+Current Time: 2.718 | timestep: 2.7
+Function call count: 163 | time: 2.7
+Current Time: 2.71808 | timestep: 2.71667
+Current Time: 2.73501 | timestep: 2.71667
+Function call count: 164 | time: 2.71667
+Current Time: 2.73508 | timestep: 2.73333
+Current Time: 2.75148 | timestep: 2.73333
+Function call count: 165 | time: 2.73333
+Current Time: 2.75155 | timestep: 2.75
+Current Time: 2.76853 | timestep: 2.75
+Function call count: 166 | time: 2.75
+Current Time: 2.7686 | timestep: 2.76667
+Current Time: 2.78487 | timestep: 2.76667
+Function call count: 167 | time: 2.76667
+Current Time: 2.78494 | timestep: 2.78333
+Current Time: 2.80204 | timestep: 2.78333
+Function call count: 168 | time: 2.78333
+Current Time: 2.8021 | timestep: 2.8
+Current Time: 2.81777 | timestep: 2.8
+Function call count: 169 | time: 2.8
+Current Time: 2.81784 | timestep: 2.81667
+Current Time: 2.83496 | timestep: 2.81667
+Function call count: 170 | time: 2.81667
+Current Time: 2.83503 | timestep: 2.83333
+Current Time: 2.85136 | timestep: 2.83333
+Function call count: 171 | time: 2.83333
+Current Time: 2.85142 | timestep: 2.85
+Current Time: 2.8681 | timestep: 2.85
+Function call count: 172 | time: 2.85
+Current Time: 2.86815 | timestep: 2.86667
+Current Time: 2.88448 | timestep: 2.86667
+Function call count: 173 | time: 2.86667
+Current Time: 2.88455 | timestep: 2.88333
+Current Time: 2.90115 | timestep: 2.88333
+Function call count: 174 | time: 2.88333
+Current Time: 2.90121 | timestep: 2.9
+Current Time: 2.91819 | timestep: 2.9
+Function call count: 175 | time: 2.9
+Current Time: 2.91827 | timestep: 2.91667
+Current Time: 2.93504 | timestep: 2.91667
+Function call count: 176 | time: 2.91667
+Current Time: 2.93511 | timestep: 2.93333
+Current Time: 2.9511 | timestep: 2.93333
+Function call count: 177 | time: 2.93333
+Current Time: 2.95116 | timestep: 2.95
+Current Time: 2.96816 | timestep: 2.95
+Function call count: 178 | time: 2.95
+Current Time: 2.96822 | timestep: 2.96667
+Current Time: 2.98529 | timestep: 2.96667
+Function call count: 179 | time: 2.96667
+Current Time: 2.98538 | timestep: 2.98333
+Current Time: 3.00145 | timestep: 2.98333
+Function call count: 180 | time: 2.98333
+Current Time: 3.00153 | timestep: 3
+Current Time: 3.01825 | timestep: 3
+Function call count: 181 | time: 3
+Current Time: 3.01831 | timestep: 3.01667
+Current Time: 3.03512 | timestep: 3.01667
+Function call count: 182 | time: 3.01667
+Current Time: 3.0352 | timestep: 3.03333
+Current Time: 3.05163 | timestep: 3.03333
+Function call count: 183 | time: 3.03333
+Current Time: 3.0517 | timestep: 3.05
+Current Time: 3.06755 | timestep: 3.05
+Function call count: 184 | time: 3.05
+Current Time: 3.06761 | timestep: 3.06667
+Current Time: 3.08425 | timestep: 3.06667
+Function call count: 185 | time: 3.06667
+Current Time: 3.08432 | timestep: 3.08333
+Current Time: 3.10141 | timestep: 3.08333
+Function call count: 186 | time: 3.08333
+Current Time: 3.10148 | timestep: 3.1
+Current Time: 3.11818 | timestep: 3.1
+Function call count: 187 | time: 3.1
+Current Time: 3.11826 | timestep: 3.11667
+Current Time: 3.1355 | timestep: 3.11667
+Function call count: 188 | time: 3.11667
+Current Time: 3.13558 | timestep: 3.13333
+Current Time: 3.15102 | timestep: 3.13333
+Function call count: 189 | time: 3.13333
+Current Time: 3.1511 | timestep: 3.15
+Current Time: 3.16854 | timestep: 3.15
+Function call count: 190 | time: 3.15
+Current Time: 3.16863 | timestep: 3.16667
+Current Time: 3.18392 | timestep: 3.16667
+Function call count: 191 | time: 3.16667
+Current Time: 3.184 | timestep: 3.18333
+Current Time: 3.2016 | timestep: 3.18333
+Function call count: 192 | time: 3.18333
+Current Time: 3.20167 | timestep: 3.2
+Current Time: 3.21779 | timestep: 3.2
+Function call count: 193 | time: 3.2
+Current Time: 3.21789 | timestep: 3.21667
+Current Time: 3.23477 | timestep: 3.21667
+Function call count: 194 | time: 3.21667
+Current Time: 3.23484 | timestep: 3.23333
+Current Time: 3.25152 | timestep: 3.23333
+Function call count: 195 | time: 3.23333
+Current Time: 3.25159 | timestep: 3.25
+Current Time: 3.26885 | timestep: 3.25
+Function call count: 196 | time: 3.25
+Current Time: 3.26892 | timestep: 3.26667
+Current Time: 3.28548 | timestep: 3.26667
+Function call count: 197 | time: 3.26667
+Current Time: 3.28555 | timestep: 3.28333
+Current Time: 3.30185 | timestep: 3.28333
+Function call count: 198 | time: 3.28333
+Current Time: 3.30192 | timestep: 3.3
+Current Time: 3.31765 | timestep: 3.3
+Function call count: 199 | time: 3.3
+Current Time: 3.31773 | timestep: 3.31667
+Current Time: 3.33543 | timestep: 3.31667
+Function call count: 200 | time: 3.31667
+Current Time: 3.3355 | timestep: 3.33333
+Current Time: 3.3515 | timestep: 3.33333
+Function call count: 201 | time: 3.33333
+Current Time: 3.35158 | timestep: 3.35
+Current Time: 3.3686 | timestep: 3.35
+Function call count: 202 | time: 3.35
+Current Time: 3.36867 | timestep: 3.36667
+Current Time: 3.38449 | timestep: 3.36667
+Function call count: 203 | time: 3.36667
+Current Time: 3.38456 | timestep: 3.38333
+Current Time: 3.40124 | timestep: 3.38333
+Function call count: 204 | time: 3.38333
+Current Time: 3.4013 | timestep: 3.4
+Current Time: 3.41854 | timestep: 3.4
+Function call count: 205 | time: 3.4
+Current Time: 3.41859 | timestep: 3.41667
+Current Time: 3.4343 | timestep: 3.41667
+Function call count: 206 | time: 3.41667
+Current Time: 3.43437 | timestep: 3.43333
+Current Time: 3.4513 | timestep: 3.43333
+Function call count: 207 | time: 3.43333
+Current Time: 3.45136 | timestep: 3.45
+Current Time: 3.4681 | timestep: 3.45
+Function call count: 208 | time: 3.45
+Current Time: 3.46816 | timestep: 3.46667
+Current Time: 3.48498 | timestep: 3.46667
+Function call count: 209 | time: 3.46667
+Current Time: 3.48506 | timestep: 3.48333
+Current Time: 3.50074 | timestep: 3.48333
+Function call count: 210 | time: 3.48333
+Current Time: 3.50081 | timestep: 3.5
+Current Time: 3.51793 | timestep: 3.5
+Function call count: 211 | time: 3.5
+Current Time: 3.51801 | timestep: 3.51667
+Current Time: 3.53546 | timestep: 3.51667
+Function call count: 212 | time: 3.51667
+Current Time: 3.53553 | timestep: 3.53333
+Current Time: 3.55174 | timestep: 3.53333
+Function call count: 213 | time: 3.53333
+Current Time: 3.55181 | timestep: 3.55
+Current Time: 3.56828 | timestep: 3.55
+Function call count: 214 | time: 3.55
+Current Time: 3.56833 | timestep: 3.56667
+Current Time: 3.58402 | timestep: 3.56667
+Function call count: 215 | time: 3.56667
+Current Time: 3.58408 | timestep: 3.58333
+Current Time: 3.60156 | timestep: 3.58333
+Function call count: 216 | time: 3.58333
+Current Time: 3.60164 | timestep: 3.6
+Current Time: 3.61905 | timestep: 3.6
+Function call count: 217 | time: 3.6
+Current Time: 3.61915 | timestep: 3.61667
+Current Time: 3.63579 | timestep: 3.61667
+Function call count: 218 | time: 3.61667
+Current Time: 3.63586 | timestep: 3.63333
+Current Time: 3.65196 | timestep: 3.63333
+Function call count: 219 | time: 3.63333
+Current Time: 3.65201 | timestep: 3.65
+Current Time: 3.66767 | timestep: 3.65
+Function call count: 220 | time: 3.65
+Current Time: 3.66775 | timestep: 3.66667
+Current Time: 3.68474 | timestep: 3.66667
+Function call count: 221 | time: 3.66667
+Current Time: 3.68478 | timestep: 3.68333
+Current Time: 3.70141 | timestep: 3.68333
+Function call count: 222 | time: 3.68333
+Current Time: 3.70149 | timestep: 3.7
+Current Time: 3.71854 | timestep: 3.7
+Function call count: 223 | time: 3.7
+Current Time: 3.71859 | timestep: 3.71667
+Current Time: 3.73468 | timestep: 3.71667
+Function call count: 224 | time: 3.71667
+Current Time: 3.73476 | timestep: 3.73333
+Current Time: 3.75223 | timestep: 3.73333
+Function call count: 225 | time: 3.73333
+Current Time: 3.75231 | timestep: 3.75
+Current Time: 3.76791 | timestep: 3.75
+Function call count: 226 | time: 3.75
+Current Time: 3.76798 | timestep: 3.76667
+Current Time: 3.78467 | timestep: 3.76667
+Function call count: 227 | time: 3.76667
+Current Time: 3.78475 | timestep: 3.78333
+Current Time: 3.80182 | timestep: 3.78333
+Function call count: 228 | time: 3.78333
+Current Time: 3.80189 | timestep: 3.8
+Current Time: 3.81852 | timestep: 3.8
+Function call count: 229 | time: 3.8
+Current Time: 3.81859 | timestep: 3.81667
+Current Time: 3.83437 | timestep: 3.81667
+Function call count: 230 | time: 3.81667
+Current Time: 3.83444 | timestep: 3.83333
+Current Time: 3.85163 | timestep: 3.83333
+Function call count: 231 | time: 3.83333
+Current Time: 3.8517 | timestep: 3.85
+Current Time: 3.86743 | timestep: 3.85
+Function call count: 232 | time: 3.85
+Current Time: 3.86749 | timestep: 3.86667
+Current Time: 3.88516 | timestep: 3.86667
+Function call count: 233 | time: 3.86667
+Current Time: 3.88523 | timestep: 3.88333
+Current Time: 3.90109 | timestep: 3.88333
+Function call count: 234 | time: 3.88333
+Current Time: 3.90116 | timestep: 3.9
+Current Time: 3.91834 | timestep: 3.9
+Function call count: 235 | time: 3.9
+Current Time: 3.91843 | timestep: 3.91667
+Current Time: 3.93485 | timestep: 3.91667
+Function call count: 236 | time: 3.91667
+Current Time: 3.93491 | timestep: 3.93333
+Current Time: 3.95183 | timestep: 3.93333
+Function call count: 237 | time: 3.93333
+Current Time: 3.95191 | timestep: 3.95
+Current Time: 3.96794 | timestep: 3.95
+Function call count: 238 | time: 3.95
+Current Time: 3.96803 | timestep: 3.96667
+Current Time: 3.9845 | timestep: 3.96667
+Function call count: 239 | time: 3.96667
+Current Time: 3.98457 | timestep: 3.98333
+Current Time: 4.00125 | timestep: 3.98333
+Function call count: 240 | time: 3.98333
+Current Time: 4.00131 | timestep: 4
+Current Time: 4.01886 | timestep: 4
+Function call count: 241 | time: 4
+Current Time: 4.01894 | timestep: 4.01667
+Current Time: 4.03503 | timestep: 4.01667
+Function call count: 242 | time: 4.01667
+Current Time: 4.03509 | timestep: 4.03333
+Current Time: 4.05132 | timestep: 4.03333
+Function call count: 243 | time: 4.03333
+Current Time: 4.05139 | timestep: 4.05
+Current Time: 4.06832 | timestep: 4.05
+Function call count: 244 | time: 4.05
+Current Time: 4.06838 | timestep: 4.06667
+Current Time: 4.08404 | timestep: 4.06667
+Function call count: 245 | time: 4.06667
+Current Time: 4.08411 | timestep: 4.08333
+Current Time: 4.10144 | timestep: 4.08333
+Function call count: 246 | time: 4.08333
+Current Time: 4.10149 | timestep: 4.1
+Current Time: 4.11812 | timestep: 4.1
+Function call count: 247 | time: 4.1
+Current Time: 4.1182 | timestep: 4.11667
+Current Time: 4.13483 | timestep: 4.11667
+Function call count: 248 | time: 4.11667
+Current Time: 4.13492 | timestep: 4.13333
+Current Time: 4.15243 | timestep: 4.13333
+Function call count: 249 | time: 4.13333
+Current Time: 4.15251 | timestep: 4.15
+Current Time: 4.1686 | timestep: 4.15
+Function call count: 250 | time: 4.15
+Current Time: 4.16868 | timestep: 4.16667
+Current Time: 4.18537 | timestep: 4.16667
+Function call count: 251 | time: 4.16667
+Current Time: 4.18544 | timestep: 4.18333
+Current Time: 4.20118 | timestep: 4.18333
+Function call count: 252 | time: 4.18333
+Current Time: 4.20125 | timestep: 4.2
+Current Time: 4.21831 | timestep: 4.2
+Function call count: 253 | time: 4.2
+Current Time: 4.21839 | timestep: 4.21667
+Current Time: 4.23442 | timestep: 4.21667
+Function call count: 254 | time: 4.21667
+Current Time: 4.2345 | timestep: 4.23333
+Current Time: 4.25167 | timestep: 4.23333
+Function call count: 255 | time: 4.23333
+Current Time: 4.25175 | timestep: 4.25
+Current Time: 4.26863 | timestep: 4.25
+Function call count: 256 | time: 4.25
+Current Time: 4.26871 | timestep: 4.26667
+Current Time: 4.28448 | timestep: 4.26667
+Function call count: 257 | time: 4.26667
+Current Time: 4.28456 | timestep: 4.28333
+Current Time: 4.30128 | timestep: 4.28333
+Function call count: 258 | time: 4.28333
+Current Time: 4.30135 | timestep: 4.3
+Current Time: 4.31806 | timestep: 4.3
+Function call count: 259 | time: 4.3
+Current Time: 4.31813 | timestep: 4.31667
+Current Time: 4.33523 | timestep: 4.31667
+Function call count: 260 | time: 4.31667
+Current Time: 4.33535 | timestep: 4.33333
+Current Time: 4.35137 | timestep: 4.33333
+Function call count: 261 | time: 4.33333
+Current Time: 4.35143 | timestep: 4.35
+Current Time: 4.36814 | timestep: 4.35
+Function call count: 262 | time: 4.35
+Current Time: 4.36822 | timestep: 4.36667
+Current Time: 4.38523 | timestep: 4.36667
+Function call count: 263 | time: 4.36667
+Current Time: 4.3853 | timestep: 4.38333
+Current Time: 4.40139 | timestep: 4.38333
+Function call count: 264 | time: 4.38333
+Current Time: 4.40147 | timestep: 4.4
+Current Time: 4.4181 | timestep: 4.4
+Function call count: 265 | time: 4.4
+Current Time: 4.41818 | timestep: 4.41667
+Current Time: 4.43529 | timestep: 4.41667
+Function call count: 266 | time: 4.41667
+Current Time: 4.43536 | timestep: 4.43333
+Current Time: 4.45113 | timestep: 4.43333
+Function call count: 267 | time: 4.43333
+Current Time: 4.45122 | timestep: 4.45
+Current Time: 4.46795 | timestep: 4.45
+Function call count: 268 | time: 4.45
+Current Time: 4.46802 | timestep: 4.46667
+Current Time: 4.48484 | timestep: 4.46667
+Function call count: 269 | time: 4.46667
+Current Time: 4.48491 | timestep: 4.48333
+Current Time: 4.50133 | timestep: 4.48333
+Function call count: 270 | time: 4.48333
+Current Time: 4.5014 | timestep: 4.5
+Current Time: 4.51832 | timestep: 4.5
+Function call count: 271 | time: 4.5
+Current Time: 4.5184 | timestep: 4.51667
+Current Time: 4.53456 | timestep: 4.51667
+Function call count: 272 | time: 4.51667
+Current Time: 4.53463 | timestep: 4.53333
+Current Time: 4.55181 | timestep: 4.53333
+Function call count: 273 | time: 4.53333
+Current Time: 4.55188 | timestep: 4.55
+Current Time: 4.56791 | timestep: 4.55
+Function call count: 274 | time: 4.55
+Current Time: 4.56798 | timestep: 4.56667
+Current Time: 4.58555 | timestep: 4.56667
+Function call count: 275 | time: 4.56667
+Current Time: 4.58563 | timestep: 4.58333
+Current Time: 4.60133 | timestep: 4.58333
+Function call count: 276 | time: 4.58333
+Current Time: 4.60141 | timestep: 4.6
+Current Time: 4.61919 | timestep: 4.6
+Function call count: 277 | time: 4.6
+Current Time: 4.61927 | timestep: 4.61667
+Current Time: 4.63566 | timestep: 4.61667
+Function call count: 278 | time: 4.61667
+Current Time: 4.63574 | timestep: 4.63333
+Current Time: 4.65127 | timestep: 4.63333
+Function call count: 279 | time: 4.63333
+Current Time: 4.65136 | timestep: 4.65
+Current Time: 4.66832 | timestep: 4.65
+Function call count: 280 | time: 4.65
+Current Time: 4.66838 | timestep: 4.66667
+Current Time: 4.68446 | timestep: 4.66667
+Function call count: 281 | time: 4.66667
+Current Time: 4.68453 | timestep: 4.68333
+Current Time: 4.70114 | timestep: 4.68333
+Function call count: 282 | time: 4.68333
+Current Time: 4.70119 | timestep: 4.7
+Current Time: 4.71802 | timestep: 4.7
+Function call count: 283 | time: 4.7
+Current Time: 4.71809 | timestep: 4.71667
+Current Time: 4.73534 | timestep: 4.71667
+Function call count: 284 | time: 4.71667
+Current Time: 4.7354 | timestep: 4.73333
+Current Time: 4.75185 | timestep: 4.73333
+Function call count: 285 | time: 4.73333
+Current Time: 4.75191 | timestep: 4.75
+Current Time: 4.76707 | timestep: 4.75
+Function call count: 286 | time: 4.75
+Current Time: 4.76713 | timestep: 4.76667
+Current Time: 4.78487 | timestep: 4.76667
+Function call count: 287 | time: 4.76667
+Current Time: 4.78493 | timestep: 4.78333
+Current Time: 4.80203 | timestep: 4.78333
+Function call count: 288 | time: 4.78333
+Current Time: 4.8021 | timestep: 4.8
+Current Time: 4.81794 | timestep: 4.8
+Function call count: 289 | time: 4.8
+Current Time: 4.81801 | timestep: 4.81667
+Current Time: 4.8351 | timestep: 4.81667
+Function call count: 290 | time: 4.81667
+Current Time: 4.83516 | timestep: 4.83333
+Current Time: 4.85075 | timestep: 4.83333
+Function call count: 291 | time: 4.83333
+Current Time: 4.85082 | timestep: 4.85
+Current Time: 4.86751 | timestep: 4.85
+Function call count: 292 | time: 4.85
+Current Time: 4.86757 | timestep: 4.86667
+Current Time: 4.88513 | timestep: 4.86667
+Function call count: 293 | time: 4.86667
+Current Time: 4.88523 | timestep: 4.88333
+Current Time: 4.90132 | timestep: 4.88333
+Function call count: 294 | time: 4.88333
+Current Time: 4.90137 | timestep: 4.9
+Current Time: 4.91829 | timestep: 4.9
+Function call count: 295 | time: 4.9
+Current Time: 4.91837 | timestep: 4.91667
+Current Time: 4.93473 | timestep: 4.91667
+Function call count: 296 | time: 4.91667
+Current Time: 4.9348 | timestep: 4.93333
+Current Time: 4.95172 | timestep: 4.93333
+Function call count: 297 | time: 4.93333
+Current Time: 4.95179 | timestep: 4.95
+Current Time: 4.96781 | timestep: 4.95
+Function call count: 298 | time: 4.95
+Current Time: 4.96788 | timestep: 4.96667
+Current Time: 4.98454 | timestep: 4.96667
+Function call count: 299 | time: 4.96667
+Current Time: 4.98461 | timestep: 4.98333
+Current Time: 5.00127 | timestep: 4.98333
+Function call count: 300 | time: 4.98333
+Current Time: 5.00133 | timestep: 5
+Current Time: 5.01881 | timestep: 5
+Function call count: 301 | time: 5
+Current Time: 5.01889 | timestep: 5.01667
+Current Time: 5.03471 | timestep: 5.01667
+Function call count: 302 | time: 5.01667
+Current Time: 5.03478 | timestep: 5.03333
+Current Time: 5.05194 | timestep: 5.03333
+Function call count: 303 | time: 5.03333
+Current Time: 5.05202 | timestep: 5.05
+Current Time: 5.06809 | timestep: 5.05
+Function call count: 304 | time: 5.05
+Current Time: 5.06815 | timestep: 5.06667
+Current Time: 5.08488 | timestep: 5.06667
+Function call count: 305 | time: 5.06667
+Current Time: 5.08495 | timestep: 5.08333
+Current Time: 5.10217 | timestep: 5.08333
+Function call count: 306 | time: 5.08333
+Current Time: 5.10225 | timestep: 5.1
+Current Time: 5.11811 | timestep: 5.1
+Function call count: 307 | time: 5.1
+Current Time: 5.11818 | timestep: 5.11667
+Current Time: 5.13479 | timestep: 5.11667
+Function call count: 308 | time: 5.11667
+Current Time: 5.13488 | timestep: 5.13333
+Current Time: 5.15175 | timestep: 5.13333
+Function call count: 309 | time: 5.13333
+Current Time: 5.1519 | timestep: 5.15
+Current Time: 5.16973 | timestep: 5.15
+Function call count: 310 | time: 5.15
+Current Time: 5.16982 | timestep: 5.16667
+Current Time: 5.18493 | timestep: 5.16667
+Function call count: 311 | time: 5.16667
+Current Time: 5.18498 | timestep: 5.18333
+Current Time: 5.20141 | timestep: 5.18333
+Function call count: 312 | time: 5.18333
+Current Time: 5.20151 | timestep: 5.2
+Current Time: 5.21818 | timestep: 5.2
+Function call count: 313 | time: 5.2
+Current Time: 5.21823 | timestep: 5.21667
+Current Time: 5.23575 | timestep: 5.21667
+Function call count: 314 | time: 5.21667
+Current Time: 5.23583 | timestep: 5.23333
+Current Time: 5.25169 | timestep: 5.23333
+Function call count: 315 | time: 5.23333
+Current Time: 5.25177 | timestep: 5.25
+Current Time: 5.26842 | timestep: 5.25
+Function call count: 316 | time: 5.25
+Current Time: 5.2685 | timestep: 5.26667
+Current Time: 5.28418 | timestep: 5.26667
+Function call count: 317 | time: 5.26667
+Current Time: 5.28425 | timestep: 5.28333
+Current Time: 5.30148 | timestep: 5.28333
+Function call count: 318 | time: 5.28333
+Current Time: 5.30155 | timestep: 5.3
+Current Time: 5.31776 | timestep: 5.3
+Function call count: 319 | time: 5.3
+Current Time: 5.31782 | timestep: 5.31667
+Current Time: 5.3352 | timestep: 5.31667
+Function call count: 320 | time: 5.31667
+Current Time: 5.33526 | timestep: 5.33333
+Current Time: 5.35124 | timestep: 5.33333
+Function call count: 321 | time: 5.33333
+Current Time: 5.35128 | timestep: 5.35
+Current Time: 5.3672 | timestep: 5.35
+Function call count: 322 | time: 5.35
+Current Time: 5.36725 | timestep: 5.36667
+Current Time: 5.38424 | timestep: 5.36667
+Function call count: 323 | time: 5.36667
+Current Time: 5.3843 | timestep: 5.38333
+Current Time: 5.40079 | timestep: 5.38333
+Function call count: 324 | time: 5.38333
+Current Time: 5.40084 | timestep: 5.4
+Current Time: 5.41773 | timestep: 5.4
+Function call count: 325 | time: 5.4
+Current Time: 5.41778 | timestep: 5.41667
+Current Time: 5.43372 | timestep: 5.41667
+Function call count: 326 | time: 5.41667
+Current Time: 5.43376 | timestep: 5.43333
+Current Time: 5.45071 | timestep: 5.43333
+Function call count: 327 | time: 5.43333
+Current Time: 5.45076 | timestep: 5.45
+Current Time: 5.46728 | timestep: 5.45
+Function call count: 328 | time: 5.45
+Current Time: 5.46734 | timestep: 5.46667
+Current Time: 5.48318 | timestep: 5.46667
+Current Time: 5.48472 | timestep: 5.46667
+Function call count: 329 | time: 5.46667
+Current Time: 5.48475 | timestep: 5.48333
+Current Time: 5.50074 | timestep: 5.48333
+Function call count: 330 | time: 5.48333
+Current Time: 5.50079 | timestep: 5.5
+Current Time: 5.51736 | timestep: 5.5
+Function call count: 331 | time: 5.5
+Current Time: 5.5174 | timestep: 5.51667
+Current Time: 5.53336 | timestep: 5.51667
+Function call count: 332 | time: 5.51667
+Current Time: 5.53343 | timestep: 5.53333
+Current Time: 5.55182 | timestep: 5.53333
+Function call count: 333 | time: 5.53333
+Current Time: 5.55188 | timestep: 5.55
+Current Time: 5.5672 | timestep: 5.55
+Function call count: 334 | time: 5.55
+Current Time: 5.56725 | timestep: 5.56667
+Current Time: 5.58429 | timestep: 5.56667
+Function call count: 335 | time: 5.56667
+Current Time: 5.58435 | timestep: 5.58333
+Current Time: 5.60072 | timestep: 5.58333
+Function call count: 336 | time: 5.58333
+Current Time: 5.60078 | timestep: 5.6
+Current Time: 5.61671 | timestep: 5.6
+Function call count: 337 | time: 5.6
+Current Time: 5.61679 | timestep: 5.61667
+Current Time: 5.63472 | timestep: 5.61667
+Function call count: 338 | time: 5.61667
+Current Time: 5.63479 | timestep: 5.63333
+Current Time: 5.65168 | timestep: 5.63333
+Function call count: 339 | time: 5.63333
+Current Time: 5.65173 | timestep: 5.65
+Current Time: 5.66666 | timestep: 5.65
+Current Time: 5.66745 | timestep: 5.65
+Function call count: 340 | time: 5.65
+Current Time: 5.66748 | timestep: 5.66667
+Current Time: 5.68363 | timestep: 5.66667
+Function call count: 341 | time: 5.66667
+Current Time: 5.68378 | timestep: 5.68333
+Current Time: 5.7011 | timestep: 5.68333
+Function call count: 342 | time: 5.68333
+Current Time: 5.70115 | timestep: 5.7
+Current Time: 5.71807 | timestep: 5.7
+Function call count: 343 | time: 5.7
+Current Time: 5.71812 | timestep: 5.71667
+Current Time: 5.73405 | timestep: 5.71667
+Function call count: 344 | time: 5.71667
+Current Time: 5.73409 | timestep: 5.73333
+Current Time: 5.75002 | timestep: 5.73333
+Function call count: 345 | time: 5.73333
+Current Time: 5.75007 | timestep: 5.75
+Current Time: 5.76699 | timestep: 5.75
+Function call count: 346 | time: 5.75
+Current Time: 5.76704 | timestep: 5.76667
+Current Time: 5.78447 | timestep: 5.76667
+Function call count: 347 | time: 5.76667
+Current Time: 5.78451 | timestep: 5.78333
+Current Time: 5.80095 | timestep: 5.78333
+Function call count: 348 | time: 5.78333
+Current Time: 5.801 | timestep: 5.8
+Current Time: 5.81716 | timestep: 5.8
+Function call count: 349 | time: 5.8
+Current Time: 5.81723 | timestep: 5.81667
+Current Time: 5.83522 | timestep: 5.81667
+Function call count: 350 | time: 5.81667
+Current Time: 5.83528 | timestep: 5.83333
+Current Time: 5.85064 | timestep: 5.83333
+Function call count: 351 | time: 5.83333
+Current Time: 5.85072 | timestep: 5.85
+Current Time: 5.86675 | timestep: 5.85
+Function call count: 352 | time: 5.85
+Current Time: 5.8668 | timestep: 5.86667
+Current Time: 5.88421 | timestep: 5.86667
+Function call count: 353 | time: 5.86667
+Current Time: 5.88427 | timestep: 5.88333
+Current Time: 5.9011 | timestep: 5.88333
+Function call count: 354 | time: 5.88333
+Current Time: 5.90118 | timestep: 5.9
+Current Time: 5.91873 | timestep: 5.9
+Function call count: 355 | time: 5.9
+Current Time: 5.91881 | timestep: 5.91667
+Current Time: 5.93494 | timestep: 5.91667
+Function call count: 356 | time: 5.91667
+Current Time: 5.935 | timestep: 5.93333
+Current Time: 5.95052 | timestep: 5.93333
+Function call count: 357 | time: 5.93333
+Current Time: 5.95059 | timestep: 5.95
+Current Time: 5.96918 | timestep: 5.95
+Function call count: 358 | time: 5.95
+Current Time: 5.96923 | timestep: 5.96667
+Current Time: 5.9851 | timestep: 5.96667
+Function call count: 359 | time: 5.96667
+Current Time: 5.98516 | timestep: 5.98333
+Current Time: 6.00008 | timestep: 5.98333
+Function call count: 360 | time: 5.98333
+Current Time: 6.00013 | timestep: 6
+Current Time: 6.02154 | timestep: 6
+Function call count: 361 | time: 6
+Current Time: 6.0216 | timestep: 6.01667
+Current Time: 6.03402 | timestep: 6.01667
+Function call count: 362 | time: 6.01667
+Current Time: 6.03407 | timestep: 6.03333
+Current Time: 6.05 | timestep: 6.03333
+Current Time: 6.0507 | timestep: 6.03333
+Function call count: 363 | time: 6.03333
+Current Time: 6.05073 | timestep: 6.05
+Current Time: 6.06699 | timestep: 6.05
+Function call count: 364 | time: 6.05
+Current Time: 6.06704 | timestep: 6.06667
+Current Time: 6.08394 | timestep: 6.06667
+Function call count: 365 | time: 6.06667
+Current Time: 6.084 | timestep: 6.08333
+Current Time: 6.10092 | timestep: 6.08333
+Function call count: 366 | time: 6.08333
+Current Time: 6.10097 | timestep: 6.1
+Current Time: 6.11689 | timestep: 6.1
+Function call count: 367 | time: 6.1
+Current Time: 6.11695 | timestep: 6.11667
+Current Time: 6.13438 | timestep: 6.11667
+Function call count: 368 | time: 6.11667
+Current Time: 6.13442 | timestep: 6.13333
+Current Time: 6.15019 | timestep: 6.13333
+Function call count: 369 | time: 6.13333
+Current Time: 6.15024 | timestep: 6.15
+Current Time: 6.16816 | timestep: 6.15
+Function call count: 370 | time: 6.15
+Current Time: 6.16821 | timestep: 6.16667
+Current Time: 6.18509 | timestep: 6.16667
+Function call count: 371 | time: 6.16667
+Current Time: 6.18516 | timestep: 6.18333
+Current Time: 6.20087 | timestep: 6.18333
+Function call count: 372 | time: 6.18333
+Current Time: 6.20094 | timestep: 6.2

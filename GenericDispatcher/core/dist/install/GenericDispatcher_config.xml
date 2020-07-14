@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project package="genericdispatcher">
+  <package name="genericdispatcher">
+
+    <!-- ====================================================================== -->
+    <!-- LOCATION AND COMPONENTS                                                -->
+    <!-- ====================================================================== -->
+    <location name="home" path="${package[genericdispatcher].path}" />
+
+    <component name="core" path="${package[genericdispatcher]->location[home].path}/core/dist">
+
+      <location name="bin"       path="${package[genericdispatcher]->component[core].path}/bin"/>
+      <location name="install"   path="${package[genericdispatcher]->component[core].path}/install"/>
+      <location name="res"       path="${package[genericdispatcher]->component[core].path}/res"/>
+      <location name="src"       path="${package[genericdispatcher]->component[core].path}/src"/>
+
+    </component>
+	  <!-- ====================================================================== -->
+
+
+	  <!-- ====================================================================== -->
+	  <!-- SIMULATION GROUPS                                                      -->
+	  <!-- ====================================================================== -->
+    <simulation group_enum="genericdispatcher" maintenance_enum="">
+
+      <!-- Cockpit mediator. -->
+      <simulationgroup name="genericdispatcher" description="">
+        <action name="start" target="StartGenericDispatcher" xml_file="GenericDispatcher.xml"/>
+        <action name="stop" target="StopGenericDispatcher" xml_file="GenericDispatcher.xml"/>
+      </simulationgroup>
+
+    </simulation>
+    <!-- ====================================================================== -->
+
+  </package>
+</project>

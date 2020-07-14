@@ -1,0 +1,10 @@
+﻿  EntryPoint.cpp
+EntryPoint.cpp(163): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+EntryPoint.cpp(96): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 192 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GenericDispatcher.vcxproj -> C:\Users\Massimo\Desktop\GenericDispatcher\Release\GenericDispatcher.exe
+  GenericDispatcher.vcxproj -> C:\Users\Massimo\Desktop\GenericDispatcher\Release\GenericDispatcher.pdb (Full PDB)

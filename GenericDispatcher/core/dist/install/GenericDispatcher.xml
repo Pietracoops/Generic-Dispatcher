@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="genericdispatcher">
+
+  <import file="${basedir}/tasks/siteInstallationTasks.xml"/>
+  <import file="${basedir}/tasks/simTasks.xml"/>
+
+  <!-- ====================================================================== -->
+  <!-- Target: StartGenericdDispatcher                                        -->
+  <!-- Functionality: Start the "Generic Dispatcher".                         -->
+  <!-- Expected argument: 	                                                  -->
+  <!--			1) Path to dll												  -->
+  <!-- 			2) Name of dll to use										  -->
+  <!--			3) Name of dll entry point to be called 					  -->
+  <!--			4) Frequency at which to call function in Hz (default 60hz)   -->
+  <!-- ====================================================================== -->
+  
+  <target name="StartGenericdDispatcher" depends="" description="Start Generic Dispatcher">
+
+    <!-- Environment -->
+
+    <ldObj object="GenericDispatcher.exe" alias="GDISPATCHER"
+           description=""
+           resolveObject="false"
+           spawnAndMonitor="true"
+           expectedExitCode="0"
+           basedir="${package[mlpx].path}/core/dist/bin"
+           workingDir="${package[mlpx].path}/core/dist/bin"
+           isOnlyOneInstanceAllowed="true"
+           startInUserSession="false"
+           failOnError="true" >
+		   <arg value="${arg.dll_location}"/>
+		   <arg value="${arg.dll_name}"/>
+		   <arg value="${arg.dll_entry_point}"/>
+		   <arg value="${arg.call_frequency_hz}"/>
+    </ldObj>
+
+  </target>
+  <!-- ====================================================================== -->
+
+
+  <!-- ====================================================================== -->
+  <!-- Target: StopGenericdDispatcher                                         -->
+  <!-- Functionality: Stop the "Generic Dispatcher". 	                      -->
+  <!-- Expected argument: N/A                                                 -->
+  <!-- ====================================================================== -->
+  <target name="StopGenericdDispatcher" depends="" description="Stop Generic Dispatcher">
+
+    <kill alias="GDISPATCHER" includeChildProcess="true"/>
+
+  </target>
+  <!-- ====================================================================== -->
+
+
+</project>
+
+<!--
+        <Job node="OPSERVER" systems="VISUAL" timeout="180000" failOnError="true" enabled="true" monitor="true" spawninsequence="true">
+          <Target package="mlpx" actionGroup="visual" operation="load" target="NH90LoadVisual" location="\Visual\VisualTask.xml">
+            <Property name="arg.visual_version" value="${visual_ig.visual_version}" />
+            <Property name="arg.visual_loader_machine_ip" value="${visual_ig.visual_loader_machine_ip}" />
+          </Target>
+        </Job
+--/>
